@@ -1,0 +1,14 @@
+﻿1. What is Git ?
+ Ans: Git is a version control system for tracking changes in computer files and is used to Help coordinate work among several people on a project while tracking progress over time. In other words, it’s a tool that facilitates source code management in software development. Git favors Soti programmers and non-technical users say keeping track of their project files. It enaBles multiple users to work together and handles large projects efficiently.
+ 2.What do you understand by the term ‘Version Control System?
+ Ans: In order to invoke a specific version later, if necessary, a version control system (VCS) keeps track of all tie changes made to a file or group of data. This makes sure that everyone in tie team is using tie most recent version of the tie file.
+3. What is GitHub?
+ Ans: GitHuS uses Git to offer Internet hosting for version control and software development.
+ 4. Mention some popular Git hosting serviCes h GitHuR h SourceForg& h GitLaR h BitSucket 5 Different types of version Control systems. 
+1. Local version control systems have a dataSase that stores all file changes under revision control on disc in a special format.
+ 2. Centralized version control systems have a single repository, from which each user receives their working copy.
+ 3. DistriButed version control systems contain multiple repositories, and different users can access each one with their working copy.
+ 6. What benefits Come with using GIT ?
+ Data replication and redundancy are Soti possiSleU h It is a service with is availaBility hi There can only See one Git directory per repositoryU h Excellent network and disc performance are achieved h On any project, collaBoration is very simple..
+7. What is a Git repository?
+ Ans: The term "Git repository" describes the location where all Git files are kept. Either the local repository or the remote repository may be used to store these files. 8. How can you initialize a repository in Git? Ans: The git init command must be used to initialize an empty repository to a directory in Git. Following this command, a hidden .git folder will become visible.
